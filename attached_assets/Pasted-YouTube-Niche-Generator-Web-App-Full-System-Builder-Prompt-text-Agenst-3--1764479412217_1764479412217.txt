@@ -1,0 +1,207 @@
+YouTube Niche Generator Web/App – Full System Builder Prompt"
+
+👇 یہ پورا text آپ سیدھا Agenst 3 میں دیں۔
+
+📌 Copy This Prompt:
+
+**"I want you to act as a Senior Product Designer + Full Stack Architect + AI System Creator.
+I want to build a web/app called:
+➡ YouTube Niche Finder & Prompt Generator Platform
+This platform will allow ANY user to input a niche, and instantly get:
+
+Niche Analysis
+
+Channel Strategy
+
+30 Viral Video Ideas
+
+Full AI Prompt
+
+Scripts
+
+Thumbnail ideas
+
+Monetization plan
+
+I want you to produce ALL the following in great detail:**
+
+1. Product Definition
+
+Create a clear explanation of the platform:
+
+What problem it solves
+
+Main use cases
+
+User journey
+
+Type of users (beginners, professionals, creators)
+
+Why people will use this platform
+
+2. Core Features List
+
+Give me a complete list of features including:
+
+Niche input text box
+
+Auto-prompt generator
+
+Viral ideas generator
+
+Channel strategy builder
+
+Monetization plan generator
+
+Save/Load results (user accounts)
+
+History
+
+Shareable result links
+
+Dark/Light theme
+
+Admin panel features
+
+3. Page-by-Page UI/UX
+
+Design UI for:
+
+Homepage
+
+Niche Input Page
+
+Results Page
+
+Prompt Generation Page
+
+Save/Share Page
+
+Login/Register Page
+
+Admin dashboard
+
+Include:
+
+Layout
+
+Buttons
+
+Section design
+
+Colors
+
+Suggested icons
+
+Ideal user flow
+
+4. API System Design
+
+Provide full API requirements including:
+
+API endpoint list
+
+Request/response formats
+
+Security
+
+Rate limiting
+
+JWT authentication
+
+5. Database Design
+
+Give a full database schema including:
+
+Tables
+
+Fields
+
+Primary keys
+
+Foreign keys
+
+Example data
+
+Tables must include:
+
+Users
+
+History
+
+Saved niches
+
+Generated prompts
+
+Admin logs
+
+6. AI Engine Logic
+
+Explain how the AI should work internally:
+
+How niche text is processed
+
+How viral ideas are generated
+
+How scripts are created
+
+How channel strategies are built
+
+How final prompt is assembled
+
+7. Technology Stack (Full Stack)
+
+Recommend ideal tech:
+
+Frontend (React, Next.js, Flutter, Vue, etc.)
+
+Backend (Laravel, Node.js, Python FastAPI, etc.)
+
+Database (MySQL / MongoDB)
+
+AI integration method (OpenAI API, Qwen API, local LLM, etc.)
+
+8. Complete Development Roadmap
+
+Give a 30-day structured roadmap:
+
+Week 1 → Planning + UI
+
+Week 2 → Backend + APIs
+
+Week 3 → AI integration
+
+Week 4 → Deployment + Testing
+
+9. Deployment Guide
+
+Explain how to deploy:
+
+For Web (cPanel, VPS, Docker, Netlify, Vercel)
+
+For Mobile App (Flutter → Play Store + App Store)
+
+10. Monetization Strategy (For my platform)
+
+Include:
+
+Subscription plans
+
+Credits system
+
+Ads
+
+Referral system
+
+Lifetime access plan
+
+Affiliate earnings
+
+11. Give me sample output JSON
+
+So I can use it as real API response.
+
+Make everything extremely detailed, structured, and developer-friendly.
+Leave no gaps.
+This prompt will be used to generate a full SaaS application.
+"
